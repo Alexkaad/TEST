@@ -1,4 +1,4 @@
-[10:28] Petrony De Clismard MIEGHAKANDA
+
 # Utiliser l'image officielle d'Ubuntu comme image de base
 FROM ubuntu:latest
  
